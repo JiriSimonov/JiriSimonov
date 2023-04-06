@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Georgy</h1>
-<h3 align="center">Junior Front-end developer from Russia</h3>
+<h3 align="center">Front-end developer from Russia</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jirisimonov)](https://github.com/ryo-ma/github-profile-trophy)
 
