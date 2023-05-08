@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Georgy</h1>
-<h3 align="center">Front-end developer from Russia</h3>
-
+<h3 align="center">Software Engineer from Russia</h3>
+![cv-img](https://user-images.githubusercontent.com/103247465/236825857-839811a6-23ee-4d81-9b00-111c3e4f19d9.png)
 [![trophy](https://github-profile-trophy.vercel.app/?username=jirisimonov)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jirisimonov)](https://github.com/anuraghazra/github-readme-stats)
