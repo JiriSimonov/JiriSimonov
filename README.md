@@ -33,6 +33,6 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-- 🔭 I’m currently working on youtube pet project
-- 🌱 I’m currently learning Angular
+- 🔭 I’m currently working on NestJS
+- 🌱 I’m currently RSS Mentor
 - 📫 How to reach me: jirisimonov@gmail.com
