@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Georgy</h1>
-<h3 align="center">Software Engineer from Russia</h3>
+<h1 align="center">Hi 👋, I'm George</h1>
+<h3 align="center">Middle+ Software Engineer from Russia</h3>
 
 ![cv-img](https://user-images.githubusercontent.com/103247465/236826098-5c41ce78-e366-47e9-a4c1-ba80557c34fe.png)
 [![trophy](https://github-profile-trophy.vercel.app/?username=jirisimonov)](https://github.com/ryo-ma/github-profile-trophy)
@@ -33,6 +33,6 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-- 🔭 I’m currently working on NestJS
+- 🔭 I’m currently working on Brief
 - 🌱 I’m currently RSS Mentor
 - 📫 How to reach me: jirisimonov@gmail.com
