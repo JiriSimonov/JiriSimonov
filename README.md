@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm George</h1>
 <h3 align="center">Middle+ Software Engineer from Russia</h3>
 
-![cv-img](https://user-images.githubusercontent.com/103247465/236826098-5c41ce78-e366-47e9-a4c1-ba80557c34fe.png)
 [![trophy](https://github-profile-trophy.vercel.app/?username=jirisimonov)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jirisimonov)](https://github.com/anuraghazra/github-readme-stats)
